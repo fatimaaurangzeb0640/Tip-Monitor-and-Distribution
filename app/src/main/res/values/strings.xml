@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipModes</string>
+
+    <string-array name="menu">
+        <item>Profile</item>
+        <item>Distribution Modes</item>
+        <item>Logout</item>
+    </string-array>
+</resources>
